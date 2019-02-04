@@ -2,6 +2,7 @@
   "name": "express-package-json-headers",
   "version": "0.0.1",
   "description": "Display package json version and package name in headers",
+  "repository": "https://github.com/fchristl/express-package-json-headers.git",
   "main": "dist/index.js",
   "scripts": {
     "build": "./node_modules/.bin/tsc"
